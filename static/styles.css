@@ -19,13 +19,13 @@ header {
     place-content: center;
 }
 
-span {
-    color: white;
-}
-
-
 main {
     position: relative;
+    padding: 1dvmin;
+}
+
+span {
+    color: #DCDDDE;
 }
 
 .dot {

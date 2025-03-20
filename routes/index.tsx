@@ -13,8 +13,8 @@ const heartFunc = () => { // nはハートの模様を変えるのに用いる�
             <div
                 class="dot"
                 style={{
-                    left: `${50 + (16 * x)}dvmin`,
-                    top: `${50 + (-1 * (16 * y))}dvmin`,
+                    left: `${50 + (18 * x)}dvmin`,
+                    top: `${56 + (-1 * (18 * y))}dvmin`,
                 }}
             >
             </div>,
