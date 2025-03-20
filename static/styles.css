@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    display: grid;
+    place-content: center;
+}
+
+body {
+    width: 100dvmin;
+    height: 100dvmin;
+    background-color: #36393F;
+}
+
+header {
+    display: grid;
+    place-content: center;
+}
+
+span {
+    color: white;
+}
+
+
+main {
+    position: relative;
+}
+
+.dot {
+    position: absolute;
+    width: 0.1dvmin;
+    height: 0.1dvmin;
+    background-color: pink;
+}
+
+#MJXc-Node-1 {
+    display: none;
+}
